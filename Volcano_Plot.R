@@ -119,8 +119,8 @@ plot_volcano_Seurat <- function (results, n_up = 2, n_down = 2, bylogFC = FALSE,
 
 
 # e.g 
-volcano_plot(results = prog_res_shrunk, n_up = 8, n_down = 3, 
-             genelabels = T, bylogFC = T, point.padding = 0.3, textsize = 3)
+#volcano_plot(results = prog_res_shrunk, n_up = 8, n_down = 3, 
+             #genelabels = T, bylogFC = T, point.padding = 0.3, textsize = 3)
 
 
 
@@ -243,8 +243,8 @@ volcano_plot_DESeq2 <- function (results, n_up = 2, n_down = 2, bylogFC = FALSE,
 
 
 # e.g 
-volcano_plot(results = prog_res_shrunk, n_up = 8, n_down = 3, 
-             genelabels = T, bylogFC = T, point.padding = 0.3, textsize = 3)
+#volcano_plot(results = prog_res_shrunk, n_up = 8, n_down = 3, 
+             # genelabels = T, bylogFC = T, point.padding = 0.3, textsize = 3)
 
 
 
