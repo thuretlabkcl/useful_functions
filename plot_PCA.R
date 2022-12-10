@@ -1,4 +1,4 @@
-------### PLOTTING FUNCTIONS ###------------------------------------------
+### PLOTTING FUNCTIONS ###
 
 
 ## PCA ##
