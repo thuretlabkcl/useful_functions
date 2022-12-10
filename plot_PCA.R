@@ -1,10 +1,3 @@
-### PLOTTING FUNCTIONS ###
-
-
-## PCA ##
-
-# define function to plot any two PCs against each other. Object is log transform dds. Specify PCs you want by
-# defining pc.x and pc.y. Remember to set intgroup
 
 library(genefilter)
 library(tidyverse)
